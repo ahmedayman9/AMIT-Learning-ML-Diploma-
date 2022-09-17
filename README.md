@@ -1,5 +1,1 @@
-Problems :
-  1) Dictionary Problems.
-  2) Nested Dictionary.
-  3) File Open 
-  4) 
+That's my working in Data Science Track in AMIT Learning Academy (Projects & Assignment)
